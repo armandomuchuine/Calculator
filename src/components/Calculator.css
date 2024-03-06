@@ -1,0 +1,45 @@
+button{
+    width:3em;
+    height: 2em;
+    font-size: 1.5em;
+    border:none;
+    border-radius: 2em;
+    margin:0.3em;
+    
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.pink{
+    background-color: #FF1493;
+    color:#FFF;
+}
+
+
+.double{
+    width: 6.2em;
+    height: 3em;
+}
+
+.wrapper{
+    background-color:#008000;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+
+.gray{
+    background-color: #505050;
+    color:#FFF;
+}
+
+.results{
+    color:#0000FF;
+    font-size: 3.5em;
+    justify-content: flex-end;
+    display: flex;
+    margin-right: 0.5em;
+    
+}
